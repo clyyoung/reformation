@@ -1,0 +1,32 @@
+body{
+  font-family: Archivo, sans-serif;
+}
+header{
+  background-color: #E9E8E1;
+}
+#logo{
+  width:175px;
+}
+hr{
+  height:3px;
+  color: black;
+  background-color: black;
+  background: black;
+  margin: 0px 0px 0px 0px;
+  border-color: black;
+}
+.picture {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#flirt {
+  font-size: xxx-large;
+  letter-spacing: 3px;
+}
